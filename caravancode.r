@@ -15,4 +15,4 @@ attach(alldata)
 table(glm.pred,CARAVAN)
 # Here the predictions are made and the table gets printed
 
-print("Company should not continue to sell the product because the number of Downs are more than Ups")
+print("Company should not continue to sell the product because the number of Downs are more than the number of Ups")
